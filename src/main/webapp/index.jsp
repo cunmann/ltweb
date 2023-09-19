@@ -12,7 +12,7 @@
     If you have a moment, we'd appreciate it if would fill out this survey
 </p>
 <h2>Your information</h2>
-<form action="detail" method="post">
+<form action="survey" method="post">
     <input type="hidden" name="action" value="add" />
 
     <label>First Name:</label>
